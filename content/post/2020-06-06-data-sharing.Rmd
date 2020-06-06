@@ -1,0 +1,16 @@
+---
+title: "Dataset sources"
+author: "Wanqi Wang"
+date: 2020-06-06T21:13:54-06:00
+categories: ["R"]
+tags: ["Hygiene", "COVID-19 transmission", "R"]
+---
+
+I have finished the data combination and clean, which is really a great job. We mainly used three dataset in this project.
+
+
+ - **National hygienic city**: there is 93 reconfirm national hygienic cities in China in 2018, this is the newested list of national hygienic city.([Source: National Health Commisson of the People's Republic of China; Date: Mar 20th, 2019](http://www.chinanews.com/gn/2019/03-20/8785718.shtml)). 
+ 
+ - **Total confirmed cases**: total conformed cases of each city are obtained from [nCov2019 packages](https://github.com/GuangchuangYu/nCov2019).
+ 
+ - **Move out data from Wuhan**: data were obtained from [Baidu Qianxi](https://qianxi.baidu.com/2020/)
