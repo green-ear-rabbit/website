@@ -1,4 +1,4 @@
-#baseurl = "file:///c:/Users/Wanqi/Desktop/DPH206_final/website/docs"
+# baseurl = "file:///c:/Users/Wanqi/Desktop/DPH206_final/website/docs"
 baseurl = "https://github.com/green-ear-rabbit.github.io/website/"
 publishDir = "docs"
 languageCode = "en-us"
