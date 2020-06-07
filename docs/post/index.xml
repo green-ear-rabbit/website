@@ -2,43 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on A Hugo website</title>
-    <link>https://github.com/green-ear-rabbit/HCRP/post/</link>
+    <link>https://github.com/green-ear-rabbit.github.io/HCRP/post/</link>
     <description>Recent content in Posts on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2020 21:13:14 -0700</lastBuildDate>
     
-	<atom:link href="https://github.com/green-ear-rabbit/HCRP/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/green-ear-rabbit.github.io/HCRP/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A Plain Markdown Post</title>
-      <link>https://github.com/green-ear-rabbit/HCRP/2016/12/30/a-plain-markdown-post/</link>
-      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
+      <title>National Hygienic city assessment</title>
+      <link>https://github.com/green-ear-rabbit.github.io/HCRP/2020/06/06/national-hygienic-city-assessment/</link>
+      <pubDate>Sat, 06 Jun 2020 21:13:14 -0700</pubDate>
       
-      <guid>https://github.com/green-ear-rabbit/HCRP/2016/12/30/a-plain-markdown-post/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+      <guid>https://github.com/green-ear-rabbit.github.io/HCRP/2020/06/06/national-hygienic-city-assessment/</guid>
+      <description>The asessment of national hygienic city has a comprehensive guideline on solid waste management, waste water management, coverage of green area and green area per capita, Air Pollution Index (API) or Air Quality index (AQI) and other seven items. Full guideline can be download from the website of National Health Commisson of the People’s Republic of China..</description>
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>https://github.com/green-ear-rabbit/HCRP/2015/07/23/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>Dataset sources</title>
+      <link>https://github.com/green-ear-rabbit.github.io/HCRP/2020/06/06/dataset-sources/</link>
+      <pubDate>Sat, 06 Jun 2020 21:13:54 -0600</pubDate>
       
-      <guid>https://github.com/green-ear-rabbit/HCRP/2015/07/23/hello-r-markdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>https://github.com/green-ear-rabbit.github.io/HCRP/2020/06/06/dataset-sources/</guid>
+      <description>I have finished the data combination and clean, which is really a great job. We mainly used three dataset in this project.
+National hygienic city: there is 93 reconfirm national hygienic cities in China in 2018, this is the newested list of national hygienic city.(Source: National Health Commisson of the People’s Republic of China; Date: Mar 20th, 2019).
+Total confirmed cases: total conformed cases of each city are obtained from nCov2019 packages.</description>
     </item>
     
     <item>
-      <title>Lorem Ipsum</title>
-      <link>https://github.com/green-ear-rabbit/HCRP/2015/01/01/lorem-ipsum/</link>
-      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
+      <title>Hello! This is China hygienic City and COVID-19 Transmission Study (HCCS)</title>
+      <link>https://github.com/green-ear-rabbit.github.io/HCRP/2020/06/06/hello-this-is-china-hygienic-city-and-covid-19-transmission-study-hccs/</link>
+      <pubDate>Sat, 06 Jun 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://github.com/green-ear-rabbit/HCRP/2015/01/01/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>https://github.com/green-ear-rabbit.github.io/HCRP/2020/06/06/hello-this-is-china-hygienic-city-and-covid-19-transmission-study-hccs/</guid>
+      <description>About this studyThis study aims to evaluate how city’s hygiene can impact the transmisstion dynamics of SARS-CoV-2, which replies on the retrospective analysis of the eraly stage of epidemic outbreak.
+What you will find in this websiteThis website will publish research proposal, datasets, R code and ongoing study results
+What’s the nature of this projectThis is actually an assignment of DPH206 in XJTLU. I am Wanqi Wang and my email is Wanqi.</description>
+    </item>
+    
+    <item>
+      <title>Research proposal: How does a city&#39;s hygiene influence the epidemic transmission</title>
+      <link>https://github.com/green-ear-rabbit.github.io/HCRP/2020/06/06/research-proposal-how-does-a-citys-hygiene-influence-the-epidemic-transmission/</link>
+      <pubDate>Sat, 06 Jun 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://github.com/green-ear-rabbit.github.io/HCRP/2020/06/06/research-proposal-how-does-a-citys-hygiene-influence-the-epidemic-transmission/</guid>
+      <description>MotivationEnvironment is closely related to human health. Also, a city’s hygiene, which closely related to th elocal governance, can positively or negatively influence the health of citizens. The importance of a city’s hygiene become prominent especailly when we come to infectious disease outbreak.
+Study AimsGet the datasets which is sufficent and high-quality to conduct the analysis
+Evaluate how city’s hygiene can impact the transmisstion dynamics of SARS-CoV-2.</description>
     </item>
     
   </channel>

@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.69.1" />
+
+
+<title>Research proposal: How does a city&#39;s hygiene influence the epidemic transmission - A Hugo website</title>
+<meta property="og:title" content="Research proposal: How does a city&#39;s hygiene influence the epidemic transmission - A Hugo website">
+
+
+  <link href='https://github.com/green-ear-rabbit.github.io/HCRP/favicon.ico' rel='icon' type='image/x-icon'/>
+
+
+
+  
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/green-ear-rabbit.github.io/HCRP/css/fonts.css" media="all">
+<link rel="stylesheet" href="/green-ear-rabbit.github.io/HCRP/css/main.css" media="all">
+
+
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="/green-ear-rabbit.github.io/HCRP/" class="nav-logo">
+    <img src="/green-ear-rabbit.github.io/HCRP/images/logo.png"
+         width="50"
+         height="50"
+         alt="Logo">
+  </a>
+
+  <ul class="nav-links">
+    
+    <li><a href="/green-ear-rabbit.github.io/HCRP/about/">About</a></li>
+    
+    <li><a href="https://github.com/rstudio/blogdown">GitHub</a></li>
+    
+    <li><a href="https://twitter.com/rstudio">Twitter</a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+    <span class="article-duration">3 min read</span>
+    
+
+    <h1 class="article-title">Research proposal: How does a city&#39;s hygiene influence the epidemic transmission</h1>
+
+    
+    <span class="article-date">2020-06-06</span>
+    
+
+    <div class="article-content">
+      
+
+
+<div id="motivation" class="section level1">
+<h1>Motivation</h1>
+<p>Environment is closely related to human health. Also, a city’s hygiene, which closely related to th elocal governance, can positively or negatively influence the health of citizens. The importance of a city’s hygiene become prominent especailly when we come to infectious disease outbreak.</p>
+</div>
+<div id="study-aims" class="section level1">
+<h1>Study Aims</h1>
+<ul>
+<li><p>Get the datasets which is sufficent and high-quality to conduct the analysis</p></li>
+<li><p>Evaluate how city’s hygiene can impact the transmisstion dynamics of SARS-CoV-2.</p></li>
+</ul>
+</div>
+<div id="study-design" class="section level1">
+<h1>Study design</h1>
+<p>This is a retrospective analysis of the epidemic transmission in early 2020. The hygiene of a city will be independent variable, the confirmed cases of COVID-19 will be dependent varaible. Because the main source of the early-stage outbreak is Wuhan, we use the move out data from Wuhan as counfounding variable (aka, covariates).</p>
+</div>
+<div id="measures" class="section level1">
+<h1>Measures</h1>
+<ul>
+<li><p><strong>National hygienic city</strong>: there is 93 reconfirm national hygienic cities in China in 2018, this is the newested list of national hygienic city.(<a href="http://www.chinanews.com/gn/2019/03-20/8785718.shtml">Source: National Health Commisson of the People’s Republic of China; Date: Mar 20th, 2019</a>).</p></li>
+<li><p><strong>Total confirmed cases</strong>: total conformed cases of each city are obtained from <a href="https://github.com/GuangchuangYu/nCov2019">nCov2019 packages</a>.</p></li>
+<li><p><strong>Move out data from Wuhan</strong>: data were obtained from <a href="https://qianxi.baidu.com/2020/">Baidu Qianxi</a></p></li>
+</ul>
+</div>
+<div id="statistics" class="section level1">
+<h1>Statistics</h1>
+<ul>
+<li>t-test (pure, not include coudounding varable)</li>
+<li>Multi-way ANOVA</li>
+<li>Multiple linear regression</li>
+</ul>
+</div>
+<div id="justification-and-limitations" class="section level1">
+<h1>Justification and Limitations</h1>
+<p>Q1: How’s the GDP’s influence on the disease transmission?
+A1: GDP may be related to move out data, and the move out data will be controlled adjusted in the data analysis.</p>
+<p>Q2: Will the emerging public health response level in different city be an confounidng variable?
+Q2: No, other than the lockdown of Wuhan city, the policy in China are relatively consistent. Each city announce their emergency public health response level according to national standard. <strong>However, we don’t know if the real performance varies in each city’s local government, this will be an limitation</strong>.</p>
+<p>Q3: Will the rural infected cases and rural hygiene be included in the analysis
+Q3: Yes, the assementent of national hygienic cities include the rural areas belong to this city. The rural infected cases also included in the total confirmed cases in a city.</p>
+<p>Q4: There is a time difference of the assement of national hygienic cities and epidemic outbreak, will it bias the results.
+A4: Not likely, because the assement based the whole year performance in 2018 and published at March, 2019, which is the newest version. The epidemic outside mainly start transmission at Spring Festival travel in 2020. The hygiene of a city is the long-term efforts of local goverment and citizens, the change can be neglected to change within one year.</p>
+<p>Q5: Will the transmission start from New Year travel in early January.
+A5: <strong>Maybe, this will be an limitation</strong></p>
+<p>Q6: After the lockdown of Wuhan city, some people scape out Wuhan city secretly, will they be included in the move out data.
+A6: It’s difficult to know them, but we assume the number are not too much</p>
+</div>
+<div id="value-and-impact" class="section level1">
+<h1>Value and Impact</h1>
+<p>This research will have theorical implication of how does hygiene impact the disease transmission, which will help to understand the transimission dynamics of the virus. Moreover, it will have practical implication to evaluate the effectiveness of national hygienic cities, which will promote the city hygiene in China and beyond.</p>
+</div>
+
+    </div>
+  </article>
+
+  
+
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          <li>
+            <a href="/green-ear-rabbit.github.io/HCRP/index.xml" type="application/rss+xml" target="_blank">RSS feed</a>
+          </li>
+          <li>
+            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="/green-ear-rabbit.github.io/HCRP/images/hugo-logo.png" alt="Img link to Hugo website" width="22" height="22"></a>
+          </li>
+        </ul>
+      </footer>
+
+    </div>
+    
+
+    
+
+    
+  </body>
+</html>
+
