@@ -1,5 +1,5 @@
 #baseurl = "file:///c:/Users/Wanqi/Desktop/DPH206_final/website/docs"
-baseurl = "https://website/"
+baseurl = "https://website/website/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "A Hugo website"
