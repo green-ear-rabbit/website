@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on A Hugo website</title>
-    <link>file:///c:/Users/Wanqi/Desktop/DPH206_final/website/docs/post/</link>
+    <link>https://github.com/green-ear-rabbit.github.io/website/post/</link>
     <description>Recent content in Posts on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Jun 2020 21:13:14 -0700</lastBuildDate>
     
-	<atom:link href="file:///c:/Users/Wanqi/Desktop/DPH206_final/website/docs/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/green-ear-rabbit.github.io/website/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>National Hygienic city assessment</title>
-      <link>file:///c:/Users/Wanqi/Desktop/DPH206_final/website/docs/2020/06/06/national-hygienic-city-assessment/</link>
+      <link>https://github.com/green-ear-rabbit.github.io/website/2020/06/06/national-hygienic-city-assessment/</link>
       <pubDate>Sat, 06 Jun 2020 21:13:14 -0700</pubDate>
       
-      <guid>file:///c:/Users/Wanqi/Desktop/DPH206_final/website/docs/2020/06/06/national-hygienic-city-assessment/</guid>
+      <guid>https://github.com/green-ear-rabbit.github.io/website/2020/06/06/national-hygienic-city-assessment/</guid>
       <description>The asessment of national hygienic city has a comprehensive guideline on solid waste management, waste water management, coverage of green area and green area per capita, Air Pollution Index (API) or Air Quality index (AQI) and other seven items. Full guideline can be download from the website of National Health Commisson of the People’s Republic of China..</description>
     </item>
     
     <item>
       <title>Dataset sources</title>
-      <link>file:///c:/Users/Wanqi/Desktop/DPH206_final/website/docs/2020/06/06/dataset-sources/</link>
+      <link>https://github.com/green-ear-rabbit.github.io/website/2020/06/06/dataset-sources/</link>
       <pubDate>Sat, 06 Jun 2020 21:13:54 -0600</pubDate>
       
-      <guid>file:///c:/Users/Wanqi/Desktop/DPH206_final/website/docs/2020/06/06/dataset-sources/</guid>
+      <guid>https://github.com/green-ear-rabbit.github.io/website/2020/06/06/dataset-sources/</guid>
       <description>I have finished the data combination and clean, which is really a great job. We mainly used three dataset in this project.
 National hygienic city: there is 93 reconfirm national hygienic cities in China in 2018, this is the newested list of national hygienic city.(Source: National Health Commisson of the People’s Republic of China; Date: Mar 20th, 2019).
 Total confirmed cases: total conformed cases of each city are obtained from nCov2019 packages.</description>
@@ -33,10 +33,10 @@
     
     <item>
       <title>Hello! This is China hygienic City and COVID-19 Transmission Study (HCCS)</title>
-      <link>file:///c:/Users/Wanqi/Desktop/DPH206_final/website/docs/2020/06/06/hello-this-is-china-hygienic-city-and-covid-19-transmission-study-hccs/</link>
+      <link>https://github.com/green-ear-rabbit.github.io/website/2020/06/06/hello-this-is-china-hygienic-city-and-covid-19-transmission-study-hccs/</link>
       <pubDate>Sat, 06 Jun 2020 21:13:14 -0500</pubDate>
       
-      <guid>file:///c:/Users/Wanqi/Desktop/DPH206_final/website/docs/2020/06/06/hello-this-is-china-hygienic-city-and-covid-19-transmission-study-hccs/</guid>
+      <guid>https://github.com/green-ear-rabbit.github.io/website/2020/06/06/hello-this-is-china-hygienic-city-and-covid-19-transmission-study-hccs/</guid>
       <description>About this studyThis study aims to evaluate how city’s hygiene can impact the transmisstion dynamics of SARS-CoV-2, which replies on the retrospective analysis of the eraly stage of epidemic outbreak.
 What you will find in this websiteThis website will publish research proposal, datasets, R code and ongoing study results
 What’s the nature of this projectThis is actually an assignment of DPH206 in XJTLU. I am Wanqi Wang and my email is Wanqi.</description>
@@ -44,10 +44,10 @@
     
     <item>
       <title>Research proposal: How does a city&#39;s hygiene influence the epidemic transmission</title>
-      <link>file:///c:/Users/Wanqi/Desktop/DPH206_final/website/docs/2020/06/06/research-proposal-how-does-a-citys-hygiene-influence-the-epidemic-transmission/</link>
+      <link>https://github.com/green-ear-rabbit.github.io/website/2020/06/06/research-proposal-how-does-a-citys-hygiene-influence-the-epidemic-transmission/</link>
       <pubDate>Sat, 06 Jun 2020 21:13:14 -0500</pubDate>
       
-      <guid>file:///c:/Users/Wanqi/Desktop/DPH206_final/website/docs/2020/06/06/research-proposal-how-does-a-citys-hygiene-influence-the-epidemic-transmission/</guid>
+      <guid>https://github.com/green-ear-rabbit.github.io/website/2020/06/06/research-proposal-how-does-a-citys-hygiene-influence-the-epidemic-transmission/</guid>
       <description>MotivationEnvironment is closely related to human health. Also, a city’s hygiene, which closely related to th elocal governance, can positively or negatively influence the health of citizens. The importance of a city’s hygiene become prominent especailly when we come to infectious disease outbreak.
 Study AimsGet the datasets which is sufficent and high-quality to conduct the analysis
 Evaluate how city’s hygiene can impact the transmisstion dynamics of SARS-CoV-2.</description>
